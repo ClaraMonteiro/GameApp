@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GameApp</string>
+    <string name="button">Button</string>
+    <string name="Yellow">Button</string>
+    <string name="Red">Button</string>
+    <string name="test">Test</string>
+    <string name="Play">Button</string>
+    <string name="green">Green</string>
+    <string name="exit">exit</string>
+    <string name="blue">Blue</string>
+    <string name="play">Play</string>
+    <string name="yellow">Yellow</string>
+    <string name="red">Red</string>
+    <string name="play_again">Play Again</string>
+    <string name="highscores">HighScores!</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="top">Top</string>
+    <string name="string_top" />
+    <string name="bottom">Bottom</string>
+    <string name="top">Top</string>
+    <string name="game_over">Game Over!</string>
+    <string name="play_again">Play Again</string>
+    <string name="see_high_scores">See High Scores</string>
+</resources>
